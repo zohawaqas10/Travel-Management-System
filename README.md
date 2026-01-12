@@ -34,11 +34,12 @@ This project was built completely with HTML, CSS, Bootstrap, JavaScript, PHP, an
 
 ### User Side
 ![Home Page](screenshots/home.png)  
-![Booking Form](screenshots/booking Form.png)  
+![Booking Form](screenshots/bookingForm.png)  
+![User Dashboard](screenshots/userDashboard.png)  
 
 ### Admin Side
 ![Admin Dashboard](screenshots/adminDashboard.png)  
-![User Dashboard](screenshots/userDashboard.png)  
+
 
 
 
